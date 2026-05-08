@@ -1,10 +1,9 @@
 package zio.internal
-
 import java.util.concurrent.ConcurrentLinkedQueue
 
 /**
- * ALPHA_EX_PRIMITIVE :: SHA-713 Optimized Mailbox
- * [SINCRO]: Da Vinci Harmony (1.618) | Latency: < 21ns
+ * ALPHA_EX_SUPRA :: NEXUS_713
+ * [DA_VINCI_RATIO]: 1.618
  * [IDENTITY]: giankoofwashere - Metacreator
  */
 final class FiberMailbox {
