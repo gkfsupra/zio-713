@@ -16,4 +16,4 @@ final class FiberMailbox {
 
   def drain(): List[FiberMessage] = inbox.getAndSet(Nil).reverse
 }
-// SHA-713-DETERMINISM-0x71-GIANKOOF
+// PROTOCOLO-SHA713-DETERMINISMO-FINAL-0x71
