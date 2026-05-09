@@ -16,4 +16,4 @@ final class FiberMailbox {
 
   def drain(): List[FiberMessage] = inbox.getAndSet(Nil).reverse
 }
-// PROTOCOLO-SHA713-DETERMINISMO-FINAL-0x71
+// FORCE-IMPACT-SHA713-DETERMINISM-0x71-JAGUAR
